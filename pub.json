@@ -1,97 +1,70 @@
-
-  {
-    "id": 1,
-    "firstName": "Shakil",
-    "lastName": "Shaj",
-    "company": "PSL",
-    "authors": [
-      {
-        "id": 1,
-        "firstName": "A1",
-        "lastName": "AA2",
-        "book": [
-          {
-            "id": 1,
-            "name": "B1",
-            "genre": "BB1"
-          },
-          {
-            "id": 2,
-            "name": "B2",
-            "genre": "BB2"
-          },
-          {
-            "id": 3,
-            "name": "B3",
-            "genre": "BB3"
-          }
-        ]
-      },
-      {
-        "id": 2,
-        "firstName": "A1",
-        "lastName": "AA2",
-        "book": [
-          {
-            "id": 1,
-            "name": "B1",
-            "genre": "BB1"
-          },
-          {
-            "id": 2,
-            "name": "B2",
-            "genre": "BB2"
-          },
-          {
-            "id": 3,
-            "name": "B3",
-            "genre": "BB3"
-          }
-        ]
-      },
-      {
-        "id": 3,
-        "firstName": "A1",
-        "lastName": "AA2",
-        "book": [
-          {
-            "id": 1,
-            "name": "B1",
-            "genre": "BB1"
-          },
-          {
-            "id": 2,
-            "name": "B2",
-            "genre": "BB2"
-          },
-          {
-            "id": 3,
-            "name": "B3",
-            "genre": "BB3"
-          }
-        ]
-      },
-      {
-        "id": 4,
-        "firstName": "A1",
-        "lastName": "AA2",
-        "book": [
-          {
-            "id": 1,
-            "name": "B1",
-            "genre": "BB1"
-          },
-          {
-            "id": 2,
-            "name": "B2",
-            "genre": "BB2"
-          },
-          {
-            "id": 3,
-            "name": "B3",
-            "genre": "BB3"
-          }
-        ]
-      }
-    ]
-  }
+{
+	"id": 1,
+	"firstName": "Shakil",
+	"lastName": "Shaj",
+	"company": "PSL",
+	"authors": [{
+			"id": 1,
+			"firstName": "A1",
+			"lastName": "AA2",
+			"books": [{
+					"id": 1,
+					"name": "B1",
+					"genre": "BB1"
+				},
+				{
+					"id": 2,
+					"name": "B2",
+					"genre": "BB2"
+				},
+				{
+					"id": 3,
+					"name": "B3",
+					"genre": "BB3"
+				}
+			]
+		},
+		{
+			"id": 2,
+			"firstName": "A1",
+			"lastName": "AA2",
+			"books": [{
+					"id": 1,
+					"name": "B1",
+					"genre": "BB1"
+				},
+				{
+					"id": 2,
+					"name": "B2",
+					"genre": "BB2"
+				},
+				{
+					"id": 3,
+					"name": "B3",
+					"genre": "BB3"
+				}
+			]
+		},
+		{
+			"id": 3,
+			"firstName": "A1",
+			"lastName": "AA2",
+			"books": [{
+					"id": 1,
+					"name": "B1",
+					"genre": "BB1"
+				},
+				{
+					"id": 2,
+					"name": "B2",
+					"genre": "BB2"
+				},
+				{
+					"id": 3,
+					"name": "B3",
+					"genre": "BB3"
+				}
+			]
+		}
+	]
+}
